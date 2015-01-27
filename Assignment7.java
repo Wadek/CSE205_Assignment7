@@ -1,8 +1,3 @@
-// Assignment #: 7
-//         Name: Wade Kariniemi
-//    StudentID: 120211213
-//      Lecture: MWF
-//      Class Time:9-950 
 //  Description: The Assignment 7 creates a WholePanel that is
 //  an extension of JPanel, add it to its content, and set
 //  a size for the applet.

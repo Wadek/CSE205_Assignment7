@@ -1,8 +1,3 @@
-// Assignment #: 7
-//         Name:Wade Kariniemi
-//    StudentID: 120211213
-//      Lecture: MWF
-//      Class Time: 9-950
 //  Description: The whole panel creates components for the whole panel
 //  of this applet. It also contains CanvasPanel, ButtonListener, ColorListener,
 //  and PointListner classes.
